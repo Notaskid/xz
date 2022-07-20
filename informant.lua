@@ -1,3 +1,3 @@
 function imtoolazytohashthisbutitneedstoloadv4(invite,version)
-  print("hiii"..invite.."|"..version)
+  print("Invite: "..invite.."\nVersion: "..version)
 end
